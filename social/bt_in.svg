@@ -1,35 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+	 viewBox="0 0 36 36" style="enable-background:new 0 0 36 36;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_00000008836287725730545180000017743723090971924388_);}
-	.st2{fill:url(#SVGID_00000052088312606272797400000001457862762120123561_);}
+	.st1{fill:url(#SVGID_00000078735632484725555410000001298983161825389988_);}
+	.st2{fill:url(#SVGID_00000054242169904685382530000015582453237766595511_);}
+	.st3{fill:url(#SVGID_00000151515821686876824620000004300793630274693790_);}
 </style>
 <g>
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="3.62" y1="30.88" x2="3.62" y2="-5.04" gradientTransform="matrix(1 0 0 -1 0 26)">
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="18" y1="38" x2="18" y2="2" gradientTransform="matrix(1 0 0 -1 0 38)">
 		<stop  offset="0" style="stop-color:#89D3BB"/>
 		<stop  offset="0.3" style="stop-color:#E2B4FF"/>
 		<stop  offset="1" style="stop-color:#7D80CE"/>
 	</linearGradient>
-	<rect x="1.4" y="8.3" class="st0" width="4.5" height="14.4"/>
+	<path class="st0" d="M30,1c2.8,0,5,2.2,5,5v24c0,2.8-2.2,5-5,5H6c-2.8,0-5-2.2-5-5V6c0-2.8,2.2-5,5-5H30 M30,0H6C2.7,0,0,2.7,0,6
+		v24c0,3.3,2.7,6,6,6h24c3.3,0,6-2.7,6-6V6C36,2.7,33.3,0,30,0L30,0z"/>
+</g>
+<g>
 	
-		<linearGradient id="SVGID_00000084516894463515988830000012247745819572661911_" gradientUnits="userSpaceOnUse" x1="15.595" y1="30.88" x2="15.595" y2="-5.04" gradientTransform="matrix(1 0 0 -1 0 26)">
+		<linearGradient id="SVGID_00000134944182337282599560000013597883156384367782_" gradientUnits="userSpaceOnUse" x1="9.62" y1="37.91" x2="9.62" y2="1.99" gradientTransform="matrix(1 0 0 -1 0 38)">
 		<stop  offset="0" style="stop-color:#89D3BB"/>
 		<stop  offset="0.3" style="stop-color:#E2B4FF"/>
 		<stop  offset="1" style="stop-color:#7D80CE"/>
 	</linearGradient>
-	<path style="fill:url(#SVGID_00000084516894463515988830000012247745819572661911_);" d="M18.1,8c-0.2,0-0.3,0-0.5,0
-		c-2.5-0.1-4,1.4-4.4,2c-0.1,0.2-0.2,0.3-0.2,0.3V8.3H8.6v14.4h4.5V16c0-1-0.1-2,0.4-2.9c0.4-0.8,1.2-1.1,2-1.1
-		c2.5,0,2.5,2.3,2.5,2.5v8.4h4.5v-9.4C22.6,10.2,21,8.3,18.1,8L18.1,8z"/>
 	
-		<linearGradient id="SVGID_00000093878210007666786370000018158263843920699809_" gradientUnits="userSpaceOnUse" x1="3.62" y1="30.88" x2="3.62" y2="-5.04" gradientTransform="matrix(1 0 0 -1 0 26)">
+		<rect x="7.4" y="13.3" style="fill:url(#SVGID_00000134944182337282599560000013597883156384367782_);" width="4.5" height="14.4"/>
+	
+		<linearGradient id="SVGID_00000002362017058167829900000002749697669839868848_" gradientUnits="userSpaceOnUse" x1="21.595" y1="37.91" x2="21.595" y2="1.99" gradientTransform="matrix(1 0 0 -1 0 38)">
 		<stop  offset="0" style="stop-color:#89D3BB"/>
 		<stop  offset="0.3" style="stop-color:#E2B4FF"/>
 		<stop  offset="1" style="stop-color:#7D80CE"/>
 	</linearGradient>
-	<circle style="fill:url(#SVGID_00000093878210007666786370000018158263843920699809_);" cx="3.6" cy="3.8" r="2.6"/>
+	<path style="fill:url(#SVGID_00000002362017058167829900000002749697669839868848_);" d="M24.1,13c-0.2,0-0.3,0-0.5,0
+		c-2.5-0.1-4,1.4-4.4,2c-0.1,0.2-0.2,0.3-0.2,0.3v-1.9h-4.3v14.4h4.5v-6.8c0-1-0.1-2,0.4-2.9c0.4-0.8,1.2-1.1,2-1.1
+		c2.5,0,2.5,2.3,2.5,2.5v8.4h4.5v-9.4C28.6,15.2,27,13.3,24.1,13L24.1,13z"/>
+	
+		<linearGradient id="SVGID_00000170980624582826561890000008578327081153576838_" gradientUnits="userSpaceOnUse" x1="9.62" y1="37.91" x2="9.62" y2="1.99" gradientTransform="matrix(1 0 0 -1 0 38)">
+		<stop  offset="0" style="stop-color:#89D3BB"/>
+		<stop  offset="0.3" style="stop-color:#E2B4FF"/>
+		<stop  offset="1" style="stop-color:#7D80CE"/>
+	</linearGradient>
+	<circle style="fill:url(#SVGID_00000170980624582826561890000008578327081153576838_);" cx="9.6" cy="8.8" r="2.6"/>
 </g>
 </svg>
